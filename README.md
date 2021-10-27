@@ -13,7 +13,7 @@
         <tr>
             <td>1</td>
             <td>Daffa Muhammad Subhan</td>
-            <td>???</td>
+            <td>Game Artist</td>
         </tr>
         <tr>
             <td>2</td>
