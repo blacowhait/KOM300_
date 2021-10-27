@@ -28,7 +28,7 @@
         <tr>
             <td>4</td>
             <td>Faris Ilham Noormandiri</td>
-            <td>???</td>
+            <td>Tampan</td>
         </tr>
     </tbody>
 </table>
