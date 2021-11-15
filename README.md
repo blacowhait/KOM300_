@@ -37,7 +37,12 @@
 ???
 
 # Rules
-???
+```
+1. Player tidak boleh sampai kelihatan di view area SR
+2. 
+3.
+4.
+```
 
 # Goals
 ???
