@@ -36,9 +36,9 @@
 # Story
 ```
 Rudi telah menyelesaikan kegiatannya di kampus dan harus kembali ke asrama, 
-<br> tetapi Rudi menyadari bahwa waktu telah melewati jam malam. Rudi harus 
-<br> melewati SR yang menjaga di area sekitar asrama untuk mencapai kamar asramanya 
-<br> tanpa ketahuan. Apakah Rudi mampu melewati hal tersebut?
+tetapi Rudi menyadari bahwa waktu telah melewati jam malam. Rudi harus 
+melewati SR yang menjaga di area sekitar asrama untuk mencapai kamar asramanya 
+tanpa ketahuan. Apakah Rudi mampu melewati hal tersebut?
 ```
 
 # Rules
