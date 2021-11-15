@@ -23,7 +23,7 @@
         <tr>
             <td>3</td>
             <td>Herdika Shidqi Wibowo</td>
-            <td>keren</td>
+            <td>Game Dev. Pemula ;(</td>
         </tr>
         <tr>
             <td>4</td>
