@@ -1,4 +1,4 @@
-# Sempiternal
+# Yoru No Toki 
 
 ## Anggota dan Role:
 <table>
@@ -28,7 +28,7 @@
         <tr>
             <td>4</td>
             <td>Faris Ilham Noormandiri</td>
-            <td>Tampan</td>
+            <td>Story Manager</td>
         </tr>
     </tbody>
 </table>
