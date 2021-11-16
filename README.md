@@ -33,7 +33,7 @@
     </tbody>
 </table>
 
-# Story
+# Story Summary
 ```
 Rudi telah menyelesaikan kegiatannya di kampus dan harus kembali ke asrama, 
 tetapi Rudi menyadari bahwa waktu telah melewati jam malam. Rudi harus 
