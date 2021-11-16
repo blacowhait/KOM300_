@@ -4,29 +4,29 @@
 <table>
     <thead>
         <tr>
-            <th></th>
+            <th>NIM</th>
             <th>Nama</th>
             <th>Role</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>1</td>
+            <td>G64190013</td>
             <td>Daffa Muhammad Subhan</td>
             <td>Game Artist</td>
         </tr>
         <tr>
-            <td>2</td>
+            <td>G64190017</td>
             <td>Grey Syafiq Kusuma</td>
             <td>???</td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>G64190020</td>
             <td>Herdika Shidqi Wibowo</td>
             <td>Game Dev. Pemula ;(</td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>G64190051</td>
             <td>Faris Ilham Noormandiri</td>
             <td>Story Manager</td>
         </tr>
