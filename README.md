@@ -18,17 +18,17 @@
         <tr>
             <td>G64190017</td>
             <td>Grey Syafiq Kusuma</td>
-            <td>???</td>
+            <td>Game Developer</td>
         </tr>
         <tr>
             <td>G64190020</td>
             <td>Herdika Shidqi Wibowo</td>
-            <td>Game Dev. Pemula ;(</td>
+            <td>Game Developer</td>
         </tr>
         <tr>
             <td>G64190051</td>
             <td>Faris Ilham Noormandiri</td>
-            <td>Story Manager</td>
+            <td>Story Creator</td>
         </tr>
     </tbody>
 </table>
