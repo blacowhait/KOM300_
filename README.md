@@ -59,8 +59,9 @@ tanpa ketahuan. Apakah Rudi mampu melewati hal tersebut?
 # Asset
 ```
 Asset buat sendiri dengan asprite
-https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sharing
 ```
+https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sharing
+
 
 # Builds
 ???
