@@ -64,7 +64,17 @@ https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sha
 
 
 # Builds
-???
+```
+1. Menentukan orang yang akan membuat asset tertentu sekaligus memasukannya ke dalam folder Drive
+2. Pembuatan Map dan benda-benda seperti lemari, pintu, dan kunci menggunakan asset yang tersedia
+3. Memasukkan animasi Main Character dan menambahkan collider (Rudi)
+4. Menambahkan script untuk fungsi Kunci, Collider, Movement, Hitbox, dan lainnya
+5. Membuat Main Menu dari Yoru no Toki
+6. Membuat animasi SR (enemy) beserta component pendukung lainnya
+7. Membuat pathfinding dengan menggunakan A*
+8. Membuat Patrol Points untuk titik patrol SR
+9. Membuat script AI untuk SR
+```
 
 # Tampilan Game
 ???
