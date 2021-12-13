@@ -56,7 +56,7 @@ tanpa ketahuan. Apakah Rudi mampu melewati hal tersebut?
 
 # Asset
 ```
-Asset dibagi 2 kategori, dibuat sendiri atau mencari di internet dengan free copyright license, 
+Asset dibagi 2 kategori, dibuat sendiri atau mencari di internet, 
 untuk lengkapnya asset dapat dilihat di link Google Drive di bawah ini :
 ```
 https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sharing
