@@ -44,10 +44,8 @@ tanpa ketahuan. Apakah Rudi mampu melewati hal tersebut?
 # Rules
 ```
 1. Player tidak boleh sampai kelihatan di view area SR
-2. Player harus menyelesaikan tiap stage dengan batas waktu yang sudah ditentukan
-3. Game dapat disimpan tiap player menyelesaikan 1 stage
-4. Tidak ada checkpoint di dalam stage
-5. Hanya bisa bergerak kanan, kiri, atas, bawah
+2. Tidak ada checkpoint di dalam stage
+3. Hanya bisa bergerak kanan, kiri, atas, bawah
 ```
 
 # Goals
@@ -58,7 +56,7 @@ tanpa ketahuan. Apakah Rudi mampu melewati hal tersebut?
 
 # Asset
 ```
-Asset buat sendiri dengan asprite
+Asset dibagi 2 kategori, dibuat sendiri atau mencari di internet dengan free copyright license, untuk lengkapnya asset dapat dilihat di link Google Drive di bawah ini :
 ```
 https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sharing
 
