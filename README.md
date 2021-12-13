@@ -76,9 +76,9 @@ https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sha
 ```
 
 # Tampilan Game
-![Screenshot![Screenshot (130)](https://user-images.githubusercontent.com/66352371/145763207-9a0abc44-8c4f-4ea4-b83a-40622a0ab853.png)
-![Screenshot (131)](https://user-images.githubusercontent.com/66352371/145763215-aa3a8e99-a1e5-4f22-b2cd-08c29cbbe225.png)
-![Screenshot (132)](https://user-images.githubusercontent.com/66352371/145763223-861a55dd-3940-4cbc-ab63-9534fae6808e.png)
-![Screenshot (134)](https://user-images.githubusercontent.com/66352371/145763225-dc6c50e6-3a47-45e2-ae5b-53bd6de5a9f9.png)
- (129)](https://user-images.githubusercontent.com/66352371/145763182-7c9c2922-657f-4fb6-9aef-0418751dd741.png)
 
+![Screenshot (129)](https://user-images.githubusercontent.com/66352371/145763309-0d2c71a7-55c0-4c90-af1b-93824960526a.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/66352371/145763326-fc2c6db9-a1fc-4691-ac9f-547b5b50dbf8.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/66352371/145763356-dce5bbc6-df28-4593-964c-15d53d270ce7.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/66352371/145763377-0e94f1b6-1591-4641-83ea-6710244f2e99.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/66352371/145763390-30b364c5-d534-4d1f-ba76-73e18c32a614.png)
