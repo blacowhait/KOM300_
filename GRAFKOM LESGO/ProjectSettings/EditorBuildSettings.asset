@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 02ff41b2a17178842bcc0f9ee2c63ea4
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: f0c85a7f4ae3d734db17a96c850b758b
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 2bd84a88a66371241a3cbee6f1d0e59d
+  - enabled: 1
+    path: Assets/Scenes/SleepEnding.unity
+    guid: 815cb1b80ee0b65488ecd20cf055dc99
+  - enabled: 1
+    path: Assets/Scenes/CaughtEnding.unity
+    guid: 3f55738851f7fac49976f888f481ee25
+  m_configObjects: {}
