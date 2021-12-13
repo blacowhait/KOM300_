@@ -76,4 +76,9 @@ https://drive.google.com/drive/folders/1o-neUg68GId9VKiv-Hb2_v9053Gf_wSN?usp=sha
 ```
 
 # Tampilan Game
-???
+![Screenshot![Screenshot (130)](https://user-images.githubusercontent.com/66352371/145763207-9a0abc44-8c4f-4ea4-b83a-40622a0ab853.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/66352371/145763215-aa3a8e99-a1e5-4f22-b2cd-08c29cbbe225.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/66352371/145763223-861a55dd-3940-4cbc-ab63-9534fae6808e.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/66352371/145763225-dc6c50e6-3a47-45e2-ae5b-53bd6de5a9f9.png)
+ (129)](https://user-images.githubusercontent.com/66352371/145763182-7c9c2922-657f-4fb6-9aef-0418751dd741.png)
+
